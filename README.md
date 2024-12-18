@@ -19,4 +19,8 @@ Eaglercraft
 <iframe src="https://eaglercraft.com/mc/1.8.8/" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 
+Slope (Every single game website ever has this)
+<iframe src="https://slopegameio.github.io/" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
+
+
 THE END
