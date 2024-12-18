@@ -12,7 +12,7 @@ Go to youranidiot.com for free V-bucks
 Jondel Rigor does not have knee surgery tommorow
 
 
-<iframe src="https://snakegame.org/" width="100%" height="700" frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://snakegame.org/" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 
-<iframe src="https://eaglercraft.com/mc/1.8.8/" width="100%" height="700" frameborder="0" scrolling="yes"></iframe>
+<iframe src="https://eaglercraft.com/mc/1.8.8/" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
