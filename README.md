@@ -19,5 +19,4 @@ Eaglercraft
 <iframe src="https://eaglercraft.com/mc/1.8.8/" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 
-Cool Math Games
-<iframe src="https://www.coolmathgames.com/" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
+THE END
