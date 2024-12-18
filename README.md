@@ -12,4 +12,4 @@ Go to youranidiot.com for free V-bucks
 Jondel Rigor does not have knee surgery tommorow
 
 
-<iframe src="https://poki.com/" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://snakegame.org/" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
