@@ -5,6 +5,9 @@ I am a random kid from a random school who wants to play games.
 I update regularly. Refreshing the site will show these updates.
 
 
+Alejandros Cake
+
+
 "King Julian is him"- Ethan
 
 
@@ -46,6 +49,10 @@ Splix IO
 
 Paper IO
 <iframe src="https://paper-io.com/" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
+
+Stickman Hook
+<iframe src="https://fungamesnow.github.io/stickman-hook/index.html" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 
 THE END
