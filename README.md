@@ -26,7 +26,7 @@ Eaglercraft
 
 
 Five Nights at Winstons
-<iframe src="https://g.deev.is/fnaw/" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://g.deev.is/fnaw/" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 THE END
