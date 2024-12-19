@@ -22,10 +22,6 @@ Eaglercraft
 <iframe src="https://eaglercraft.com/mc/1.8.8/" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 
-Slope (Every single game website ever has this)
-<iframe src="https://slopegameio.github.io/" width="75%" height="500" frameborder="10" scrolling="no"></iframe>
-
-
 Five Nights at Winstons
 <iframe src="https://g.deev.is/fnaw/" width="100%" height="800" frameborder="0" scrolling="no"></iframe>
 
