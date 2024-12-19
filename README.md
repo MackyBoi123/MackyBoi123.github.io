@@ -8,6 +8,9 @@ I update regularly. Refreshing the site will show these updates.
 "King Julian is him"- Ethan
 
 
+Danny is a Sigma Boi
+
+
 Go to youranidiot.com for free V-bucks
 
 
