@@ -8,6 +8,9 @@ Go to youranidiot.com for free V-bucks
 "I just rizzed up the ohio goon max lord with a sigma who is skibidi grimace shake"- Some weird kid somewhere
 
 
+Hi there Chris
+
+
 People, you do not have knee surgery tommorow
 
 
