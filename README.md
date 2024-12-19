@@ -44,8 +44,4 @@ Splix IO
 <iframe src="https://splix.io/" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 
-Agar IO
-<iframe src="https://agar.io/?#ffa" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-
-
 THE END
