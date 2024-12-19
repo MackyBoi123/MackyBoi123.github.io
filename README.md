@@ -5,7 +5,7 @@ I am a random kid from a random school who wants to play games.
 I update regularly. Refreshing the site will show these updates.
 
 
-Matthew codes on scratch
+"King Julian is him"- Ethan
 
 
 Go to youranidiot.com for free V-bucks
