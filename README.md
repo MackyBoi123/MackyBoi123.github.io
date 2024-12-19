@@ -5,6 +5,9 @@ I am a random kid from a random school who wants to play games.
 I update regularly. Refreshing the site will show these updates.
 
 
+Hi chris and albert
+
+
 Go to youranidiot.com for free V-bucks
 
 
