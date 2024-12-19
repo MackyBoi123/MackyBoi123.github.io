@@ -55,4 +55,8 @@ Stickman Hook
 <iframe src="https://fungamesnow.github.io/stickman-hook/index.html" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
 
 
+1v1.LOL
+<iframe src="https://1v1.lol/" width="100%" height="700" frameborder="0" scrolling="no"></iframe>
+
+
 THE END
